@@ -7,4 +7,4 @@ print('1')
 print('2')
 
 print('nuovo commit,pt2')
-print('modifica fatta da github')
+print('modifica fatta da github, pt2')
